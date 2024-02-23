@@ -2,7 +2,7 @@
 
 ![Demo App](https://i.ibb.co/cbyfyT3/Screenshot-267.png)
 
-[Video Post on LinkedIn](Link to be pasted here)
+[Video Post on LinkedIn](https://www.linkedin.com/posts/kaustubh-watane-6135b41a3_halochatapp-realtimemessaging-techinnovation-activity-7166760167940767744-s9bI?utm_source=share&utm_medium=member_desktop)
 
 Some Features:
 
